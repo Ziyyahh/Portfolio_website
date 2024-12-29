@@ -15,10 +15,13 @@ both my analytical skills and my ability to execute real-world projects.
 
 Featured Projects
 
-Personal Finance Dashboard: Analysis of personal spending patterns and budget tracking
-YouTube Channel Analysis: Data-driven insights for content optimization
-Inventory Management System: Excel-based solution for small business tracking
-Sales Analysis Dashboard: Comprehensive analysis of sales performance
+Personal Finance Dashboard: Analysis of personal spending patterns and budget tracking.
+
+YouTube Channel Analysis: Data-driven insights for content optimization.
+
+Inventory Management System: Excel-based solution for small business tracking.
+
+Sales Analysis Dashboard: Comprehensive analysis of sales performance.
 
 
 🛠️ Built With
